@@ -1,2 +1,4 @@
 # ngs-crud-backend
-Back-end of my Angular + Spring user/role management web application
+Back-end of my user/role management web application
+
+Built with Spring Boot 3 and MongoDB
