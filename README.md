@@ -13,8 +13,8 @@ Built with Spring Boot 3 and MongoDB</br>
 
 # How to run the back-end:
 - Clone the repo</br>
-- Ensure the MongoDB service is running</br>
-- Open the project in your IDE</br>
+- Ensure the MongoDB service is active</br>
+- Open the project in your Spring Tools IDE</br>
 - Run the project</br>
 </br>
 You'll then be able to test this back-end by making HTTP requests to <code>localhost:8081/api/user</code> and <code>localhost:8081/api/role</code> or run the full application with the front-end app at https://github.com/Fabio5271/ngs-crud-frontend
