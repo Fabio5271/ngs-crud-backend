@@ -1,6 +1,5 @@
 # ngs-crud-backend
 Back-end of my user/role management web application</br>
-</br>
 Built with Spring Boot 3 and MongoDB</br>
 </br>
 
